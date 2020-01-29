@@ -1,4 +1,4 @@
-def prime?(i)
+
   n = 2
   x = i.abs
   while n < 10 
