@@ -1,5 +1,5 @@
 def prime?(i)
-  y = 2
+  n = 2
   x = i.abs
   while n < 10 
     if x % n == 0 
