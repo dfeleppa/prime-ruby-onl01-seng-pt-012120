@@ -1,3 +1,3 @@
-def prime?()
+def prime?(i)
   a 
 end
