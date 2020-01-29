@@ -4,7 +4,7 @@ def prime(i)
     if i % n == 0 
       false 
     else
-      TRUE
+      true 
     end
   n += 1
 end
