@@ -1,7 +1,8 @@
 def prime(i)
   n = 2
+  x = i.abs
   while n < 10 
-    if i % n == 0 
+    if x % n == 0 
       false 
     else
       true 
