@@ -1,6 +1,6 @@
 def prime?(i)
   n = 2
-  x = i.abs
+  i.abs = x
   while n < 10 
     if x % n == 0 
       false 
