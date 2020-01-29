@@ -1,5 +1,5 @@
 def prime?(i)
-  div = [1...9]
-  if i.any? {|num|
-    num % div
+  n = 2
+  while n < 10 
+    if i % n =
 end
