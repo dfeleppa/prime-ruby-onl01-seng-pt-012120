@@ -7,4 +7,5 @@ def prime(i)
       true 
     end
   n += 1
+  end
 end
