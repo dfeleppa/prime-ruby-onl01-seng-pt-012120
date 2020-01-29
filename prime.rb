@@ -3,9 +3,9 @@ def prime?(i)
   x = i.abs
   while n < 10 
     if ((x % n == 0) && (n < x)) || x = 1
-      return false  
+      return true  
     else
-      return true 
+      return false 
     end
   n += 1
   end
