@@ -2,7 +2,7 @@ def prime?(i)
   n = 2
   x = i.abs
   while n < 10 
-    if (x % n == 0) &&
+    if (x % n == 0) && (n < x)
       return false  
     else
       return true 
