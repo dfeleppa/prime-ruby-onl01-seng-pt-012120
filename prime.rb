@@ -1,3 +1,3 @@
 def prime?(i)
-  a 
+  div = [1...9]
 end
